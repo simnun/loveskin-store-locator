@@ -1,24 +1,5 @@
 [
   {
-    "codice_negozio": "AVELO",
-    "r": "Campania",
-    "p": "Avellino",
-    "n": "Avellino C.so Vittorio Emanuele",
-    "brand": "LoveSkin",
-    "b": "LoveSkin",
-    "t": "Centro Città",
-    "a": "Corso Vittorio Emanuele II, 319",
-    "c": "Avellino",
-    "cap": "83100",
-    "tel": "+3908251491697",
-    "la": 40.91361971116468,
-    "lo": 14.786277660056228,
-    "hw": "10:00-20:00",
-    "hs": "10:00-20:00",
-    "hd": "10:00-20:00",
-    "m": "https://maps.app.goo.gl/LXRfsSinMXnVjzfTA"
-  },
-  {
     "codice_negozio": "OLBLO",
     "r": "Sardegna",
     "p": "Gallura Nord-Est Sardegna",
@@ -74,25 +55,6 @@
     "hs": "10:00-20:00",
     "hd": "10:00-20:00",
     "m": "https://maps.app.goo.gl/rq7NXJtSwATkWBux9"
-  },
-  {
-    "codice_negozio": "SORLO",
-    "r": "Campania",
-    "p": "Napoli",
-    "n": "Sorrento C.so Italia",
-    "brand": "LoveSkin",
-    "b": "LoveSkin",
-    "t": "Centro Città",
-    "a": "Corso Italia, 178",
-    "c": "Sorrento",
-    "cap": "80067",
-    "tel": "+3908119624273",
-    "la": 40.626592364347786,
-    "lo": 14.377668523286527,
-    "hw": "10:00-20:30",
-    "hs": "10:00-20:30",
-    "hd": "10:00-20:30",
-    "m": "https://maps.app.goo.gl/pAtht1LNmW9GTct76"
   },
   {
     "codice_negozio": "SIDLO",
